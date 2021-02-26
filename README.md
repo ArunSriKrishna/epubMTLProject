@@ -1,6 +1,7 @@
 # epubProject
 
 ## DeepL Translate webscrapper - auto -> en_US
+https://www.deepl.com/translator
 
 ### Prerequisites 
 - Chromedriver present in the same directory.
@@ -22,6 +23,7 @@
 <hr>
 
 ## Papago Translate webscrapper - ko -> en_US
+https://papago.naver.com/
 
 ### Prerequisites 
 - Chromedriver present in the same directory.
