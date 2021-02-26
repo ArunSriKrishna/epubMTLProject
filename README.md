@@ -66,5 +66,5 @@
 
 ### Usage:
 - Execute the python executible using 
-<pre>$ ./txt2wxr.py</pre>
+<pre>$ ./gif2png.py</pre>
 - Select the text document containing the list when prompted.
