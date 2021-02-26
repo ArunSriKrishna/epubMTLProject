@@ -6,7 +6,8 @@
 - Chromedriver present in the same directory.
 
 ### Usage:
-- Execute the python executible using <pre>$ ./deepL-auto.py</pre>
+- Execute the python executible using 
+<pre>$ ./deepL-auto.py</pre>
 - Select a text document when prompted.
 
 <hr>
@@ -14,7 +15,8 @@
 ## epub2txt - Extract epub contents to a text document
 
 ### Usage:
-- Execute the python executible using <pre>$ ./epub2txt.py</pre>
+- Execute the python executible using 
+<pre>$ ./epub2txt.py</pre>
 - Select a epub document when prompted.
 
 <hr>
@@ -25,7 +27,8 @@
 - Chromedriver present in the same directory.
 
 ### Usage:
-- Execute the python executible using <pre>$ ./papago-kr.py</pre>
+- Execute the python executible using 
+<pre>$ ./papago-kr.py</pre>
 - Select a text document when prompted.
 
 <hr>
@@ -36,7 +39,8 @@
 - Add Find and Replace regular expression patterns inside a <b>named</b> Sheet in ./src/Glossary.xlsx
 
 ### Usage:
-- Execute the python executible in console using <pre>$ ./regex-xlsx.py</pre>
+- Execute the python executible in console using 
+<pre>$ ./regex-xlsx.py</pre>
 - Enter the name of the Sheet as series name.
 - Select a text document when prompted.
 
@@ -49,7 +53,8 @@
 - Templated text document -> new 'page' in wordpress is recognized from "#####\n" in the text document.
 
 ### Usage:
-- Execute the python executible using <pre>$ ./txt2wxr.py</pre>
+- Execute the python executible using 
+<pre>$ ./txt2wxr.py</pre>
 - Select the templated text document when prompted.
 
 <hr>
@@ -60,5 +65,6 @@
 - Text document containing full directory and a linebreak of each file to be converted.
 
 ### Usage:
-- Execute the python executible using <pre>$ ./txt2wxr.py</pre>
+- Execute the python executible using 
+<pre>$ ./txt2wxr.py</pre>
 - Select the text document containing the list when prompted.
