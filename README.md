@@ -8,7 +8,7 @@ https://www.deepl.com/translator
 
 ### Usage:
 - Execute the python executible using 
-<pre>$ ./deepL-auto.py</pre>
+<pre>$ ./deepL-auto</pre>
 - Select a text document when prompted.
 
 <hr>
@@ -17,7 +17,7 @@ https://www.deepl.com/translator
 
 ### Usage:
 - Execute the python executible using 
-<pre>$ ./epub2txt.py</pre>
+<pre>$ ./epub2txt</pre>
 - Select a epub document when prompted.
 
 <hr>
@@ -30,7 +30,7 @@ https://papago.naver.com/
 
 ### Usage:
 - Execute the python executible using 
-<pre>$ ./papago-kr.py</pre>
+<pre>$ ./papago-kr</pre>
 - Select a text document when prompted.
 
 <hr>
@@ -42,7 +42,7 @@ https://papago.naver.com/
 
 ### Usage:
 - Execute the python executible in console using 
-<pre>$ ./regex-xlsx.py</pre>
+<pre>$ ./regex-xlsx</pre>
 - Enter the name of the Sheet as series name.
 - Select a text document when prompted.
 
@@ -56,7 +56,7 @@ https://papago.naver.com/
 
 ### Usage:
 - Execute the python executible using 
-<pre>$ ./txt2wxr.py</pre>
+<pre>$ ./txt2wxr</pre>
 - Select the templated text document when prompted.
 
 <hr>
@@ -68,5 +68,5 @@ https://papago.naver.com/
 
 ### Usage:
 - Execute the python executible using 
-<pre>$ ./gif2png.py</pre>
+<pre>$ ./gif2png</pre>
 - Select the text document containing the list when prompted.
